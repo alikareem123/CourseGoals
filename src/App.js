@@ -1,7 +1,8 @@
 import React, {useState} from 'react';
 
-import GoalsList from './Components/GoalList/GoalsList';
 import NewGoal from './Components/NewGoal/NewGoal';
+import GoalsList from './Components/GoalList/GoalsList';
+
 
 
 const App = () => {
