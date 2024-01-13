@@ -1,0 +1,14 @@
+.goal-list {
+    margin: 2rem;
+    list-style: none;
+    padding: 0;
+}
+
+.goals-list li {
+    margin: 1rem 0;
+    border: 1px solid #ccc;
+}
+
+.course-goals h2{
+    text-align: center;
+}
